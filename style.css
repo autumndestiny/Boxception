@@ -1,25 +1,22 @@
 h1 {
     text-align: center;
 }
-#box1 {
+div {
     width: 500px;
     height: 500px;
-    padding: 150px;
     border: 3px solid black;
-    margin: auto;
+    margin: 100px auto;
 }
-#box2 {
+div div {
     width: 300px;
     height: 300px;
-    padding: 100px;
     border: 3px solid black;
-    margin: auto;
+    
     
 }
-#box3 {
+div div div {
     width: 100px;
     height: 100px;
-    padding: 75px;
     border: 3px solid black;
-    margin: auto
+    
 }
