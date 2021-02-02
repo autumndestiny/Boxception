@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+}
+#box1 {
+    width: 500px;
+    height: 500px;
+    padding: 150px;
+    border: 3px solid black;
+    margin: auto;
+}
+#box2 {
+    width: 300px;
+    height: 300px;
+    padding: 100px;
+    border: 3px solid black;
+    margin: auto;
+    
+}
+#box3 {
+    width: 100px;
+    height: 100px;
+    padding: 75px;
+    border: 3px solid black;
+    margin: auto
+}
